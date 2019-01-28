@@ -75,6 +75,7 @@ class LinkedList {
     return null
   }
 
+
   getNthNode(n){
     let counter = 1;
     let curr = this.head;
